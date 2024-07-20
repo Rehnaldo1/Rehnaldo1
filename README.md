@@ -3,7 +3,7 @@
 **Sou o prof Reinaldo Almeida**
 - Perfil para trabalhar com os meus alunos em projetos de programação
 - projetos esses no:
-- [P5.JW](https://editor.p5js.org/reinaldosan/sketches)
+- [P5.JS](https://editor.p5js.org/reinaldosan/sketches)
 - [Scratch](https://scratch.mit.edu/users/ProfRehnaldo/)
 - [AluraStart](https://cursos.alura.com.br/dashboard)
 
