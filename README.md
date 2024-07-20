@@ -1,6 +1,6 @@
 ## Bem vindos 👋
 
-Sou o prof Reinaldo Almeida
+**Sou o prof Reinaldo Almeida**
 - Perfil para trabalhar com os meus alunos em projetos de programação
 - projetos esses no:
 - [P5.JW](https://editor.p5js.org/reinaldosan/sketches)
