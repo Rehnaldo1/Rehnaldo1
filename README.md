@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindos 👋
 
-<!--
-**Rehnaldo1/Rehnaldo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o prof Reinaldo Almeida
+- Perfil para trabalhar com os meus alunos em projetos de programação
+- projetos esses no:
+- [P5.JW](https://editor.p5js.org/reinaldosan/sketches)
+- [Scratch](https://scratch.mit.edu/users/ProfRehnaldo/)
+- [AluraStart](https://cursos.alura.com.br/dashboard)
 
-Here are some ideas to get you started:
+### meu contato 📧
+-reinaldosan@prof.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/cJtDhl2-MP0AAAAj/goku-dragon-ball.gif)
